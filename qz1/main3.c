@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <stdio.h>
 int main (){
 unsigned char i =200;
 unsigned char j =220;
